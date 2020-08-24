@@ -18,15 +18,19 @@ body {
     padding: 10px;
 }
 
+#rodape {
+    text-align: center;
+}
+
+.img-campanha {
+ border: 10px solid #c3c3ae;
+}
+
 a {
     color: #4b566a;
     text-decoration: none;
     font-weight: bold;
     padding: 5px;
-}
-
-.centralizar {
-    text-align: center;
 }
 
 h1 {
